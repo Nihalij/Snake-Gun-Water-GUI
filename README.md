@@ -1,6 +1,7 @@
 # 🐍 Snake Gun Water Game 🎮
 
 A simple and interactive **Snake Gun Water** game built using **Python Tkinter** with a graphical user interface.
+
 This project demonstrates basic game logic, GUI design, and the use of external libraries like NumPy and Pillow.
 
 ---
@@ -80,4 +81,5 @@ python snake_gun_water_gui.py
 ---
 ---
 This repository includes both console and GUI versions of the game.
+
 ⭐ If you like this project, don’t forget to star the repository!

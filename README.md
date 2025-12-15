@@ -29,11 +29,11 @@ This project demonstrates basic game logic, GUI design, and the use of external 
 ```
 Snake-Gun-Water-Game/
 │
+├── console_version.py
 ├── snake_gun_water_gui.py
 ├── assets/
-│   ├── icon.png
-│   └── background.png
 └── README.md
+
 ```
 
 > 📌 Make sure to update image paths if you place assets in a different folder.
@@ -70,7 +70,6 @@ python snake_gun_water_gui.py
 * Same choice → **Draw**
 
 ---
-
 ## 🚀 Future Improvements
 
 * Score counter
@@ -79,9 +78,6 @@ python snake_gun_water_gui.py
 * Image-based choices (Snake/Gun/Water)
 
 ---
-
-
-
 ---
-
+This repository includes both console and GUI versions of the game.
 ⭐ If you like this project, don’t forget to star the repository!

@@ -71,14 +71,6 @@ python snake_gun_water_gui.py
 * Same choice → **Draw**
 
 ---
-## 🚀 Future Improvements
-
-* Score counter
-* Reset button
-* Sound effects
-* Image-based choices (Snake/Gun/Water)
-
----
 ---
 This repository includes both console and GUI versions of the game.
 
